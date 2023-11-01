@@ -3,7 +3,7 @@
 
    <h4 align="center" text-align= "justify">Trabalho com planejamento e desenvolvimento de site </h4>
    <h4 align="center" text-align= "justify">Atualmente minha linguagem dominante é J.S (React Node)</h4>
-   <h4 align = "center">Em meu git voçê encontrará trabalhos públicos e estudos envolvendo linguagem sitadas a baixo</h4>
+   <h4 align = "center">Em meu git você encontrará trabalhos públicos e estudos envolvendo linguagens citadas a baixo</h4>
 
    <div align="center">
   <img align="center" width="350" style="border-radius:50px;" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-17.gif">
