@@ -1,5 +1,5 @@
  
-   <h1 align= "center">Olá! Eu sou o Julio Cesar 🖐️<h1>
+   <h1 align= "center">Olá! meu nome é Julio Cesar 🖐️<h1>
 
    <h4 align="center" text-align= "justify">Trabalho com planejamento e desenvolvimento de site </h4>
    <h4 align="center" text-align= "justify">Atualmente minha linguagem dominante é J.S (React Node)</h4>
